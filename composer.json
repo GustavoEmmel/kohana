@@ -1,3 +1,5 @@
 {
-    "name":"kohana/kohana"
+    "name": "kohana/kohana",
+    "version": "3.3.6",
+    "description": "kohana install with composer"
 }
